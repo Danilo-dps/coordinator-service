@@ -122,4 +122,8 @@ coordinator-service/
 
 ---
 
+# Serviços envolvidos
+## [sender service](https://github.com/Danilo-dps/sender-service)
+## [receiver service](https://github.com/Danilo-dps/receiver-service)
+
 <p style="text-align: center;">Desenvolvido com ☕ e 🔒</p>
