@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: coordinator-service
+
+server:
+  port: 8082
