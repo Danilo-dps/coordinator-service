@@ -9,4 +9,3 @@ web:
   cors:
     allowed-origins:
       - ${FRONTEND_URL}
-      - ${BACKEND_URL}
