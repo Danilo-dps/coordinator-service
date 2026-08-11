@@ -33,5 +33,4 @@ public class SecretController {
         return ResponseEntity.ok(new SecretResponse(rotated.version(), rotated.secret()));
     }
 
-    public record SecretResponse(String version, String secret) {}
 }
