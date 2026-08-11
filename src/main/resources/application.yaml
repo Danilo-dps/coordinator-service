@@ -4,3 +4,7 @@ spring:
 
 server:
   port: ${SERVER_PORT}
+
+web:
+  cors:
+    allowed-origins: ${FRONTEND_URL},${BACKEND_URL}
